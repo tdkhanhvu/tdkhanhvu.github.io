@@ -1,5 +1,3 @@
-**Answer:**
-
 # Why does storing passwords as plaintext format in databases pose a threat, and how can we mitigate this risk by using cryptographic hash functions?
 
 ### Risks of storing raw passwords
